@@ -10,7 +10,7 @@ Images are of the dimension[32 x 32] with 3 channels[RGB]: \
 # Network Architecture
 ![alt text](https://github.com/kwquan/CIFAR-10/blob/main/cifar_10_nn.drawio.png)
 
-The whole model consists of 18 layers: \
+The whole model consists of 18 layers: 
 1) Convolution, 32 filters with size (3x3) [Relu activation with Batch Normalization] 
 2) Convolution, 32 filters with size (3x3) [Relu activation with Batch Normalization] 
 3) Convolution, 32 filters with size (3x3) [Relu activation with Batch Normalization] 
