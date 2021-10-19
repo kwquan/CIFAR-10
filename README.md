@@ -31,7 +31,7 @@ The whole model consists of 18 layers:
 18) Dense (units = 10) [Softmax activation]
 
 # Model Performance
-Model is able to achieve an accuracy of 0.86, with crossentropy < 0.7 \
+Model is able to achieve an accuracy of 0.86, with crossentropy < 0.7 on the test set \
 ![alt text](https://github.com/kwquan/CIFAR-10/blob/main/model_accuracy.png)
 ![alt text](https://github.com/kwquan/CIFAR-10/blob/main/model_loss.png)
 
