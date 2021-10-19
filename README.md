@@ -38,6 +38,7 @@ Model is able to achieve an accuracy of 0.86, with crossentropy < 0.7 on the tes
  # Common Questions
  1) Why is feature scaling required? \
  ![alt text](https://github.com/kwquan/CIFAR-10/blob/main/activations.png)
+ 
  Recall that we need to feed the inputs to activation functions, which essentially act as a map between the input data to outputs. Depending on which function you use, if input 
  data is too big, the derivatives of the functions w.r.t the inputs will be close to zero[see sigmoid,tanh]. \
  Referring to how weights are updated in my neural network from scratch example: \
